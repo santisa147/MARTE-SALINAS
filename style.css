@@ -9,7 +9,7 @@
 }
 .logo{
     height: 50px;
-    border-radius: 100%;
+    
 }
 .logo-titulo{
     text-decoration: none;
@@ -40,5 +40,17 @@ body{
 }
 .container img{
     height: 200px;
+    
+}
+.iconos-redes{
+    color: black;
+}
+.footer{
+    position: absolute  ;
+    bottom: 0;
+    background-color: orangered;
+    padding: 10px;
+    width: 100%;
+ 
     
 }
