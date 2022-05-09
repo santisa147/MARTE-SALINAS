@@ -8,11 +8,37 @@
   
 }
 .logo{
-    height: 100px;
-    border-radius: 100px;
+    height: 50px;
+    border-radius: 100%;
 }
 .logo-titulo{
     text-decoration: none;
     display: block;
     color: orangered;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    background-color: black;
+}
+.main{
+    
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.parrafo{
+    color: orangered;
+}
+.container img{
+    height: 200px;
+    
 }
