@@ -46,11 +46,24 @@ body{
     color: black;
 }
 .footer{
-    position: absolute  ;
-    bottom: 0;
+    position: relative;
+    top: 0;
     background-color: orangered;
     padding: 10px;
     width: 100%;
  
+    
+}
+.contform{
+    height: 300px;
+}
+.textInput{
+    width:50%
+}
+.mailInput{
+    width: 50%;
+}
+.colorText{
+    color: white;
     
 }
